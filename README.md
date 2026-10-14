@@ -12,18 +12,18 @@
 
 | 平台 | 文件 | 说明 |
 | --- | --- | --- |
-| macOS（Apple Silicon / M 系列） | `EhViewer Desktop-0.5.2-arm64.dmg` | 推荐 |
-| macOS（Intel） | `EhViewer Desktop-0.5.2-x64.dmg` | |
-| macOS（免安装） | `EhViewer Desktop-0.5.2-*-mac.zip` | 解压即用 |
-| Windows（安装版） | `EhViewer Desktop-0.5.2-x64-setup.exe` | 推荐 |
-| Windows（便携版） | `EhViewer Desktop-0.5.2-x64-portable.exe` | 免安装 |
+| macOS（Apple Silicon / M 系列） | `EhViewer.Desktop-0.5.2-arm64.dmg` | 推荐 |
+| macOS（Intel） | `EhViewer.Desktop-0.5.2-x64.dmg` | |
+| macOS（免安装） | `EhViewer.Desktop-0.5.2-*-mac.zip` | 解压即用 |
+| Windows（安装版） | `EhViewer.Desktop-0.5.2-x64-setup.exe` | 推荐 |
+| Windows（便携版） | `EhViewer.Desktop-0.5.2-x64-portable.exe` | 免安装 |
 
 也可以直接下载（点击即开始下载最新版）：
 
-- [macOS ARM64（.dmg）](../../releases/latest/download/EhViewer%20Desktop-0.5.2-arm64.dmg)
-- [macOS Intel（.dmg）](../../releases/latest/download/EhViewer%20Desktop-0.5.2-x64.dmg)
-- [Windows 安装版（.exe）](../../releases/latest/download/EhViewer%20Desktop-0.5.2-x64-setup.exe)
-- [Windows 便携版（.exe）](../../releases/latest/download/EhViewer%20Desktop-0.5.2-x64-portable.exe)
+- [macOS ARM64（.dmg）](../../releases/latest/download/EhViewer.Desktop-0.5.2-arm64.dmg)
+- [macOS Intel（.dmg）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64.dmg)
+- [Windows 安装版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-setup.exe)
+- [Windows 便携版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-portable.exe)
 
 ### 安装提示
 
