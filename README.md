@@ -1,54 +1,47 @@
 # joyear角崖
 
-> 桌面端漫画 / 画廊阅读器 —— 支持 macOS 与 Windows
+> 桌面端漫畫 / 畫廊閱讀器 —— 支援 macOS 與 Windows
 
-本仓库为 **joyear角崖** 的官方下载入口。源代码不在此仓库，这里仅发布可直接下载安装的正式版本。
+本倉庫為 **joyear角崖** 的官方下載入口。原始碼不在此倉庫，這裡僅發布可直接下載安裝的正式版本。
 
 ---
 
-## 下载
+## 下載
 
-**最新版本：0.5.2** —— 前往 **[Releases](../../releases/latest)** 页面下载。
+**最新版本：0.5.2** —— 前往 **[Releases](../../releases/latest)** 頁面下載。
 
-| 平台 | 文件 | 说明 |
+| 平台 | 檔案 | 說明 |
 | --- | --- | --- |
-| macOS（Apple Silicon / M 系列） | `EhViewer.Desktop-0.5.2-arm64.dmg` | 推荐 |
+| macOS（Apple Silicon / M 系列） | `EhViewer.Desktop-0.5.2-arm64.dmg` | 建議 |
 | macOS（Intel） | `EhViewer.Desktop-0.5.2-x64.dmg` | |
-| macOS（免安装） | `EhViewer.Desktop-0.5.2-*-mac.zip` | 解压即用 |
-| Windows（安装版） | `EhViewer.Desktop-0.5.2-x64-setup.exe` | 推荐 |
-| Windows（便携版） | `EhViewer.Desktop-0.5.2-x64-portable.exe` | 免安装 |
+| macOS（免安裝） | `EhViewer.Desktop-0.5.2-*-mac.zip` | 解壓即用 |
+| Windows（安裝版） | `EhViewer.Desktop-0.5.2-x64-setup.exe` | 建議 |
+| Windows（免安裝） | `EhViewer.Desktop-0.5.2-x64-portable.exe` | 免安裝 |
 
-也可以直接下载（点击即开始下载最新版）：
+也可以直接下載（點擊即開始下載最新版）：
 
 - [macOS ARM64（.dmg）](../../releases/latest/download/EhViewer.Desktop-0.5.2-arm64.dmg)
 - [macOS Intel（.dmg）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64.dmg)
-- [Windows 安装版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-setup.exe)
-- [Windows 便携版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-portable.exe)
+- [Windows 安裝版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-setup.exe)
+- [Windows 免安裝版（.exe）](../../releases/latest/download/EhViewer.Desktop-0.5.2-x64-portable.exe)
 
-### 安装提示
+### 安裝提示
 
-- **macOS**：首次打开若提示「来自身份不明的开发者」，请前往 **系统设置 → 隐私与安全性**，点击「仍要打开」。
-- **Windows**：若 SmartScreen 拦截，点击 **更多信息 → 仍要运行**。
-
----
-
-## 当前版本
-
-**0.5.2**
+- **macOS**：首次開啟若提示「來自未知的開發者」，請前往 **系統設定 → 隱私權與安全性**，點選「強制打開」。
+- **Windows**：若 SmartScreen 攔截，點選 **更多資訊 → 仍要執行**。
 
 ---
 
-## 反馈
+## 回報問題
 
-使用中遇到问题，请在 [Issues](../../issues) 中反馈，并附上：
+使用中遇到問題，請在 [Issues](../../issues) 回報，並附上：
 
-- 操作系统与版本
-- 应用版本号
-- 问题描述与复现步骤
-- 相关截图
+- 作業系統與版本
+- 應用程式版本號
+- 問題描述與重現步驟
 
 ---
 
-## 许可
+## 授權
 
-本仓库分发的安装包仅供个人学习与使用。
+本倉庫分發的安裝套件僅供個人學習與使用。
